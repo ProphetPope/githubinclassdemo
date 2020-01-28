@@ -1,1 +1,1 @@
-$ echo "Bethel Community Apostoplic Church"
+ "Bethel Community Apostoplic Church"
