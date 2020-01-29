@@ -26,6 +26,7 @@ console.log(num1 + select);
 
 console.log(txt1 + txt4);
 
+console.log(num1 * select);
 
 
 
