@@ -21,6 +21,9 @@ console.log(txt4 + txt1);
 
 console.log(txt1 + txt3 + num1);
 
+console.log(num1 + select);
+
+
 console.log(txt1 + txt4);
 
 
