@@ -17,7 +17,8 @@ console.log("Here is txt3: " + txt3);
 
 console.log(num1 + txt3);
 
-console.log(txt4 + txt1);
+console.log(txt4 + -txt1);
+
 
 
 
