@@ -4,7 +4,7 @@ var txt4;
 
 txt1 ="Darnell";
 txt2 ="  -  01/29/2020";
-txt4 ="Prophetic Anointing"
+txt4 ="Prophetic Anointing";
 
 var txt3 = txt1 + txt2;
 var num1 = 10;
@@ -20,6 +20,9 @@ console.log(num1 + txt3);
 console.log(txt4 + txt1);
 
 console.log(txt1 + txt3 + num1);
+
+console.log(txt1 + txt4);
+
 
 
 
