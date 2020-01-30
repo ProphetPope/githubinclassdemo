@@ -48,6 +48,15 @@ if (i%2==0){
 } else {
     console.log("devil");
 }
+//therefore my answer is true because of JESUS
+
+var degrees = 75;
+
+if ( degrees < 70 && degrees > 95){ 
+    console.log("the weather is Comfortable");
+} else{
+    console.log("the weather is Uncomfortable")
+}
 
 
 
