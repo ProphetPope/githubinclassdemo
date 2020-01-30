@@ -67,8 +67,8 @@ if ((degrees < 70 && degrees > 95)||(degrees !=70 || degrees <95)){
 }
 // Function
 
-Function  (x, y)
-    return x+y;
 
-console.log(add(5, 20));
-console.log(add(-15, 37));
+
+
+
+
