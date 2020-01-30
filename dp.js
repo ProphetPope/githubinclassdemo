@@ -28,6 +28,15 @@ console.log(txt1 + txt4);
 
 console.log(num1 * select);
 
+//Conditional Homewrok
+
+var i = 2;
+i+= 5;
+i*=2;
+console.log(i);
+i % 3;
+console.log(i);
+
 
 
 
