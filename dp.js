@@ -34,8 +34,17 @@ var i = 2;
 i+= 5;
 i*=2;
 console.log(i);
-i =% 3;
+i%= 3;
+//I believe that it will return 2, because 14 divided by 3 leaves a remainder of 2
+
 console.log(i);
+i%= 2;
+//I believe the answer would be 1
+console.log(i);
+
+
+
+
 
 
 
