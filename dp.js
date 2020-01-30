@@ -64,16 +64,12 @@ if ( degrees !=70 || degrees <95){
 }
 if ((degrees < 70 && degrees > 95)||(degrees !=70 || degrees <95)){
     console.log("the weather is EXCELLENT");
+
+// Functions
+var x= 5;
+var y= 20;
+function add(x,y) {
+    return x+y;
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(5, 20);
