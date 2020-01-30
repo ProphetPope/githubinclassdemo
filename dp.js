@@ -55,15 +55,18 @@ var degrees = 75;
 if ( degrees < 70 && degrees > 95){ 
     console.log("the weather is Comfortable");
 } else{
-    console.log("the weather is Uncomfortable")
+    console.log("the weather is Uncomfortable");
 }
 if ( degrees !=70 || degrees <95){
-    console.log("Thank you for good weather")
+    console.log("Thank you for good weather");
 } else{
-    console.log("the weather is bad")
+    console.log("the weather is bad");
 }
-
-
+if (degrees < 70 && degrees > 95)(degrees !=70 || degrees <95);{
+    console.log("the weather is EXCELLENT"); 
+} else{ 
+    console.log("the weather is Nasty");
+}
 
 
 
