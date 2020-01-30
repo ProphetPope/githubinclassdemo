@@ -62,10 +62,8 @@ if ( degrees !=70 || degrees <95){
 } else{
     console.log("the weather is bad");
 }
-if (degrees < 70 && degrees > 95)(degrees !=70 || degrees <95);{
-    console.log("the weather is EXCELLENT"); 
-} else{ 
-    console.log("the weather is Nasty");
+if ((degrees < 70 && degrees > 95)||(degrees !=70 || degrees <95)){
+    console.log("the weather is EXCELLENT");
 }
 
 
