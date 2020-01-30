@@ -41,6 +41,14 @@ console.log(i);
 i%= 2;
 //I believe the answer would be 1
 console.log(i);
+// my answer is 0, I miscalculated, thererfore the correct answer is 0
+
+if (i%2==0){
+    console.log("Jesus");
+} else {
+    console.log("devil");
+}
+
 
 
 
